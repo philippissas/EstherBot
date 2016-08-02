@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Phil, a UX Designer from New York.\n![phil](https://raw.githubusercontent.com/philippissas/EstherBot/master/img/3a63802.jpg)\nWant to know more about bots or learn about Phil? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Phil](postback:learn_about_ephil) %[One random fact!](postback:random_fact)",
-    "START": "Hey, I'm so glad you set PhilBot up! Do you want to tell Phil that you're talking to his bot? %[Tell him](postback:twitter)",
+    "HELLO": "Hey, I'm so glad you set PhilBot up! Do you want to tell Phil that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HER": "Let's tweet @ Phil so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Phil](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
